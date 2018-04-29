@@ -6,7 +6,7 @@ The Iris flower data set was first introduced by the British statistician Ronald
  
 ![iris](Iris%20Image.jpg)
  
-Fig 1: Illustration of the three Iris species (ref)
+[Fig 1: Illustration of the three Iris species](https://www.safaribooksonline.com/library/view/neural-network-programming/9781788390392/c6c7ca4b-7ac3-45e9-9e5e-b72f603c578d.xhtml)
 
 Please insert this reference correctly reference
 
