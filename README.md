@@ -23,7 +23,8 @@ The aim of this task is to import, organize and describe this dataset
 
 * Step 3 - Assign headings for the species if your dataset does not contain headers.
 
-![header](assign headings.JPG)
+
+![header](headings.JPG)
 
 
 
