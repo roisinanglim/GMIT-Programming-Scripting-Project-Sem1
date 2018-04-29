@@ -28,6 +28,8 @@ The aim of this task is to import, organize and describe this dataset
 ## How to organize the data 
 * Step 1 - Check for any empty cells and remove these from the dataset 
 
+![emptycells](missingdata.JPG)
+
 ## How to describe the data 
 
 * Step 1 - Use the gropuby function to arrange data by species 
