@@ -15,10 +15,12 @@ The aim of this task is to import, organize and describe this dataset
 
 ## How to import the csv dataset into python 
 
-Step 1 - Download the dataset from UCI machine learning repository [3] 
-Step 2 - Use the open source platform pandas[4] to read in the CSV file. 
+* Step 1 - Download the dataset from UCI machine learning repository [3] 
+* Step 2 - Use the open source platform pandas[4] to read in the CSV file.  
+
 ![csv import](csvimport.JPG)
-Step 3 - Assign headings if your data does not contain headers.
+
+* Step 3 - Assign headings if your data does not contain headers.
 
 
 
