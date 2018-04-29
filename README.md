@@ -13,9 +13,15 @@ Fig 1: Illustration of the three Iris species
 ## Task
 The aim of this task is to import, organize and describe this dataset
 
-## How to import the data in python 
+## How to import the csv dataset into python 
 
-Download the dataset from UCI machine learning repository 
+Download the dataset from UCI machine learning repository [3] 
+Use the open source platform pandas to read in the CSV file. 
+If your data does not contain headers add headers (see code below). 
+
+
+
+
 
 
 
