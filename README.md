@@ -17,7 +17,7 @@ The aim of this task is to import, organize and describe this dataset
 
 * Step 1 - Download the dataset from UCI machine learning repository [3]  
 * Step 2 - Import your dataset in python as csv
-* Step 3 - Use the open source platform pandas[4] to read in the CSV file.  
+* Step 3 - Use the open source platform pandas[4],numpy[5] & seaborn[6] 
 
 ![csv import](csvimport.JPG)
 
@@ -74,5 +74,7 @@ Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annal
 
 3. Iris Data set [http://archive.ics.uci.edu/ml/datasets/Iris](http://archive.ics.uci.edu/ml/datasets/Iris) 
 
-4. Panda data analysis toolkit- https://pandas.pydata.org/p[Panda data analandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)
+4. Panda data analysis toolkit- https://pandas.pydata.org/p[Panda data analandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/) 
+
+5. Num
 
