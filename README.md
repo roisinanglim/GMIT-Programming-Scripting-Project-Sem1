@@ -21,7 +21,7 @@ The aim of this task is to import, organize and describe this dataset
 
 ![csv import](csvimport.JPG)
 
-* Step 3 - Assign headings for the species if your dataset does not contain headers.
+* Step 4 - Assign headings for the species if your dataset does not contain headers.
 
 ![header](headings.JPG)
 
@@ -53,17 +53,6 @@ Boxplots give a visual representation of the data. The top and bottom of the box
 ## Conclusion 
 
 Based on this preliminary exploratory analysis of the iris data set, it would appear that the Iris-setosa species is most distinguishable particularly in terms of its petal length and width. In comparison, the Iris-versicolor and Iris-virginica species were closer to one another on every feature explored. Future analysis should begin to explore machine learning techniques to classify the species based on their features.
-
-
-
-
-
-
-
-
-
-
-
 
 
 
