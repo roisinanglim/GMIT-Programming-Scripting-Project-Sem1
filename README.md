@@ -37,7 +37,9 @@ The aim of this task is to import, organize and describe this dataset
 
 ![meanstd](descriptivestat.JPG)
 
-* Step 3 - Explore the data using boxplots with overlay of actual datapoints
+* Step 3 - Explore the data using boxplots with overlay of actual datapoints. 
+
+Boxplots give a visual representation of the data. The top and bottom of the box are the 75th and 25th percentiles respectivly. The horizontal line in the box represents the median value.The dashlines known as the whiskers are  
 
 ![petallenght](petallenght.JPG)  
 
