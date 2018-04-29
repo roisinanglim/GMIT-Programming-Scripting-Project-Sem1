@@ -76,9 +76,9 @@ Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annal
 
 3. Iris Data set [http://archive.ics.uci.edu/ml/datasets/Iris](http://archive.ics.uci.edu/ml/datasets/Iris) 
 
-4. Panda data analysis toolkit-[https://pandas.pydata.org/p[Panda data analandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/) 
+4. Panda data analysis toolkit [https://pandas.pydata.org/p[Panda data analandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/) 
 
-5. Numpy-[http://www.numpy.org/](http://www.numpy.org/) 
+5. Numpy [http://www.numpy.org/](http://www.numpy.org/) 
 
-6. Seaborn plotting libray-[https://seaborn.pydata.org/] (https://seaborn.pydata.org/)
+6. Seaborn plotting libray [https://seaborn.pydata.org/] (https://seaborn.pydata.org/)
 
