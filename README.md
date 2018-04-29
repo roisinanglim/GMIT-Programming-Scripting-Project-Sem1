@@ -48,7 +48,9 @@ The aim of this task is to import, organize and describe this dataset
 ![sepalwidth](sepallenght.JPG)
 
 
+## Conclusion 
 
+Based on this preliminary exploratory analysis of the iris data set, it would appear that the Iris-setosa species is most distinguishable particularly in terms of its petal length and width. In comparison, the Iris-versicolor and Iris-virginica species were closer to one another on every feature explored. Future analysis should begin to explore machine learning techniques to classify the species based on their features.
 
 
 
@@ -78,5 +80,5 @@ Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annal
 
 5. [Numpy - http://www.numpy.org/](http://www.numpy.org/) 
 
-6. 
+6. [Seaborn plotting libray - https://seaborn.pydata.org/] (https://seaborn.pydata.org/)
 
