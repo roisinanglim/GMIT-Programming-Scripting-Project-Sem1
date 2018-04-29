@@ -84,4 +84,4 @@ Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annal
 
 6. Seaborn plotting libray [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 
-7. Boxplots [Bruce, P. and Bruce, A., 2017. Practical Statistics for Data Scientists: 50 Essential Concepts. " O'Reilly Media, Inc.".](Bruce, P. and Bruce, A., 2017. Practical Statistics for Data Scientists: 50 Essential Concepts. " O'Reilly Media, Inc.".)
+7. Boxplots - Bruce, P. and Bruce, A., 2017. Practical Statistics for Data Scientists: 50 Essential Concepts. " O'Reilly Media, Inc."
