@@ -33,6 +33,7 @@ The aim of this task is to import, organize and describe this dataset
 * Step 1 - Use the gropuby function to arrange data by species 
 * Step 2 - Get the mean and standard deviation for each of species  
 
+![meanstd](descriptivestat.JPG)
 
 * Step 3 - Explore the data using boxplots
 
