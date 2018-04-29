@@ -17,7 +17,7 @@ The aim of this task is to import, organize and describe this dataset
 
 Step 1 - Download the dataset from UCI machine learning repository [3] 
 Step 2 - Use the open source platform pandas[4] to read in the CSV file. 
-![csv import](csvimport.jpg)
+![csv import](csvimport.JPG)
 Step 3 - Assign headings if your data does not contain headers.
 
 
