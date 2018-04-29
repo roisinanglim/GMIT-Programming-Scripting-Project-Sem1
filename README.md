@@ -37,7 +37,7 @@ The aim of this task is to import, organize and describe this dataset
 
 ![meanstd](descriptivestat.JPG)
 
-* Step 3 - Explore the data using boxplots
+* Step 3 - Explore the data using boxplots with overlay of actual datapoints
 
 ![petallenght](petallenght.JPG)  
 
