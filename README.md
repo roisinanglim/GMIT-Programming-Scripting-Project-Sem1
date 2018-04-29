@@ -36,7 +36,7 @@ The aim of this task is to import, organize and describe this dataset
 
 * Step 3 - Explore the data using boxplots
 
-* 
+![petallenght](petallenght.JPG) 
 
 
 
