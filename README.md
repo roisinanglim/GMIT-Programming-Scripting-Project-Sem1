@@ -16,7 +16,8 @@ The aim of this task is to import, organize and describe this dataset
 ## How to import the csv dataset into python 
 
 Download the dataset from UCI machine learning repository [3] 
-Use the open source platform pandas to read in the CSV file. 
+Use the open source platform pandas[4] to read in the CSV file. 
+
 If your data does not contain headers add headers (see code below). 
 
 
@@ -42,5 +43,6 @@ If your data does not contain headers add headers (see code below).
 
 2. Field, A., Miles, J. and Field, Z. 2013. Discovering Statistics Using SPSS.
 Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annals of Eugenics, 7(2), pp.179–188. 
-3 . Iris Data set [http://archive.ics.uci.edu/ml/datasets/Iris](http://archive.ics.uci.edu/ml/datasets/Iris)
+3 . Iris Data set [http://archive.ics.uci.edu/ml/datasets/Iris](http://archive.ics.uci.edu/ml/datasets/Iris) 
+4 . Panda data analysis toolkit- https://pandas.pydata.org/p[Panda data analandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)
 
