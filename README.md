@@ -80,5 +80,5 @@ Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annal
 
 5. Numpy [http://www.numpy.org/](http://www.numpy.org/) 
 
-6. Seaborn plotting libray [https://seaborn.pydata.org/] (https://seaborn.pydata.org/)
+6. Seaborn plotting libray [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 
