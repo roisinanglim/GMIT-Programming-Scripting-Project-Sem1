@@ -39,7 +39,7 @@ The aim of this task is to import, organize and describe this dataset
 
 * Step 3 - Explore the data using boxplots with overlay of actual datapoints. 
 
-Boxplots give a visual representation of the data. The top and bottom of the box are the 75th and 25th percentiles respectivly. The horizontal line in the box represents the median value.The dashlines known as the whiskers are  
+Boxplots give a visual representation of the data. The top and bottom of the box are the 75th and 25th percentiles respectivly. The horizontal line in the box represents the median value.The dashlines known as the whiskers show the rest of the distribution except for points that are determined to be outliers[7]. 
 
 ![petallenght](petallenght.JPG)  
 
@@ -84,3 +84,4 @@ Fisher, R.A. 1936. THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS. Annal
 
 6. Seaborn plotting libray [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 
+7. Boxplots []()
